@@ -2,4 +2,4 @@
 <div style="width:20%">![loop](./output.gif)</div>
 
 # TEST2
-![loop](./output.gif)
+![loop](./output-256.gif)
